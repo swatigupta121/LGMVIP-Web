@@ -1,0 +1,15 @@
+.todo-bg {
+    background-color: #b5eaea;
+    margin-top: 10%;
+    height: 70%;
+    width: 50%;
+    position: absolute;
+    left: 25%;
+}
+
+.heading {
+    text-align: center;
+    position: relative;
+    top: 25vh;
+    text-decoration: underline;
+}
