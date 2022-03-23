@@ -1,0 +1,26 @@
+.bg {
+  background-color: black;
+  height: 10vh;
+}
+
+.logo-img > img {
+  height: 150px;
+  width: 250px;
+  position: relative;
+  top: -14.5vh;
+}
+
+/* .user-button > button {
+    width: 10%;
+    background-color: white;
+    color: black;
+    padding: 14px 20px;
+    margin: 50px 0;
+    border: none;
+    border-radius: 20%;
+    cursor: pointer;
+    font-size: 18px;
+    position: relative;
+    top: -35vh;
+    left: 85%;
+} */

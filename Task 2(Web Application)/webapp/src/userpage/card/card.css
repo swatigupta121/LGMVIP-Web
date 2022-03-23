@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.user-card {
+    box-shadow: 0 0 10px 5px #e1e5ee;
+    width: 300px;
+    /* height: 300px; */
+    border-radius: 12px;
+    padding: 25px 0px;
+    float: left;
+    background-color: #b5eaea;
+    margin: 20px 90px;
+    transition: all 0, 4s cubic-bezier(0.175, 0.885, 0, 1);
+  }
+  
+  .user-card:hover {
+    box-shadow: 0px 30px 18px -8px rgba(0, 0, 0, 0.1);
+    transform: scale(1.05, 1.05);
+  }
+  
+  .user-card img {
+    /* width: 320px;
+    height: 260px; */
+    margin-left: 25%;
+    width:150px;
+    height:150px;
+    margin-bottom: 20px;
+  }
+
+.name {
+    margin-bottom: 10px;
+}
+
+.head {
+    font-weight:bold;
+    margin-left: 20px;
+}
